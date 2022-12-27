@@ -1,7 +1,9 @@
+import DemoRouter from "./DemoRouter";
 
 function App() {
   return (
     <div className="App">
+      <DemoRouter />
     </div>
   );
 }
